@@ -1,0 +1,97 @@
+.logo img{
+    height:60px;
+    margin-left:10px;
+    margin-top:-10px;
+}
+.nav-bar{
+    float:right;
+    width:1350px;
+}
+.nav-bar a{
+    margin-left:40px;
+    color:crimson;
+    font-weight: bold;
+}
+.nav-bar .navbar-brand{
+    margin-left:240px;
+}
+.carousel-inner{
+    height:700px;
+}
+.shop-category div{
+    display:inline-block;
+}
+.card{
+    margin-left: 160px;
+}
+h1{
+  padding:50px;
+  text-align: center;
+  text-decoration:underline;
+  color:red;
+}
+h3{
+    color:lavender;
+}
+#feature div{
+    color:black !important;
+    font-weight: bold;
+    background-color:darkgrey;
+}
+#feature{
+    background-color:beige;
+}
+.footer_section h3{
+    color:orangered;
+}
+.footer_section a{
+    color:darkred;
+    font-weight:500;
+}
+.border-top{
+    margin-bottom:-30px;
+    margin-top:80px;
+}
+footer .footer_links{
+    background-color:lightblue;
+}
+.backtop a{
+    float:right;
+    margin-right:25px;
+    margin-bottom:25px;
+}
+footer{
+    background-color:papayawhip;
+}
+*{
+ scroll-behavior: smooth;
+}
+
+
+
+.shop-category{
+    background-color:rosybrown;
+}
+
+#about h3{
+    color:darkblue;
+}
+#contact h3{
+    color:black;
+}
+
+.mb-3 .pt-4{
+    background-image:linear-gradient(to top left,#f6d6ad,#0e918c);  
+}
+.list-group-item{
+    background-image:linear-gradient(to top left,#f6d6ad,#0e918c);
+}
+
+#order_confirmation img{
+    height:150px;
+    margin-top:-50px;
+}
+
+#product_detail h3{
+  color:blue;
+}
